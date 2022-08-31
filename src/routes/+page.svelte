@@ -11,11 +11,11 @@
 </script>
 <div class='container'>
     <div class='nb'>
-        <Navbar width='30vw' content={content} />
+        <Navbar width='35vw' content={content} />
     </div>
 
     <div class='sb'>
-        <Searchbar width='30vw' />
+        <Searchbar width='20vw' />
     </div>
 
 </div>
@@ -28,11 +28,4 @@
         
     }
 
-    // .sb {
-
-    // }   
-
-    // .nb {
-        
-    // }
 </style>
